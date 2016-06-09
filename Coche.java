@@ -2,8 +2,8 @@
 /**
  * Write a description of class Coche here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Miguel Ángel) 
+ * @version 1.2016
  */
 import java.util.*;
 public class Coche extends Vehiculo //Cabecera de la subclase o clase derivada
